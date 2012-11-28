@@ -18,5 +18,5 @@ app.get('/', function(req, res){
 
 app.listen(3000);
 
-// scoreBoard √ ±‚»≠
+// scoreBoard
 scoreBoard.init(app, mongoServer);
